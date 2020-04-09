@@ -1,0 +1,7 @@
+document.write("Oi, <br>")
+document.write("como <br>")
+document.write("você <br>")
+document.write("está <br>")
+document.write("pulando <br>")
+document.write("linha <br>")
+document.write("? <br>")
