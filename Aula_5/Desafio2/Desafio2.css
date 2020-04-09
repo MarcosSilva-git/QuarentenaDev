@@ -1,0 +1,12 @@
+* {
+    color: orangered;
+}
+
+img {
+    border: solid orangered 15px;
+    width: 280px;
+}
+
+li {
+    text-decoration: underline;
+}

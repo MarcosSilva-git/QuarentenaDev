@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: green
+}
+
+img {
+    width: 120px;
+    border-radius: 30%;
+    border: solid green;
+    margin-right: 10pxpx;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 24px;
+}
+
+#minha-descricao {
+    float: right;
+    margin-right: 860px;
+    margin-top: 45px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul li {
+    font-size: 24px;
+}
