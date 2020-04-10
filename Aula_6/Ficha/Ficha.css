@@ -1,0 +1,22 @@
+html {
+    background-color: aqua;
+}
+
+body {
+    width: 500px;
+    background-color: white;
+    margin: 26px auto auto auto;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-size: 28px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 24px;
+    text-decoration: underline;
+}
