@@ -1,6 +1,6 @@
 mes = prompt("Digite um número de 1 a 12:")
 
-if(mes == 1) {
+if (mes == 1) {
     alert("O mês correspondente a esse número é janeiro")
 } else if (mes == 2) {
     alert("O mês correspondente a esse número é fevereiro")
