@@ -1,0 +1,45 @@
+img {
+    width: 1335px;
+    height: 810px;
+}
+
+#Texto {
+    position: absolute;
+    background-color: white;
+    top: 171px;
+    left: 485px;
+    width: 368px;
+    height: 520px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+ button { 
+    padding: 3px;
+    border: solid black 5px;
+    position: relative;
+    left: -2px;
+    width: 370px;
+    height: 110px;
+    font-size: 25px;
+    background-color: rgb(25, 25, 128);
+    color: white;
+} 
+
+#Caixa {
+    width: 368px;
+    height: 241px;
+}
