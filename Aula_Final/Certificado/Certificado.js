@@ -22,12 +22,12 @@ function gerar() {
     atividade = [
         'Aula10 - Certificado.',
         'Aula9 - Inputs e Cálculos da Uber (completo).',
-        'Aula8 - Like, Números Aleatórios, Pares, Contagem e Olimíadas.',
+        'Aula8 - Like, Números Aleatórios, Pares, Contagem e Olimpíadas.',
         'Aula7 - Pequena Validação de <br>Dados.',
         'Aula6 - Ficha e Meses do Ano.', 
         'Aula5 - Pokebola, Layout, <br>Calculadora e Currículo.',
         'Aula4 - Calculo do Uber.',
-        'Aula3 - Calculo da Gasolina e <br>Quenbra da Linha.',
+        'Aula3 - Cálculo da Gasolina e <br>Quebra da Linha.',
         'Aula2 - Idade Atual, IMC e Média.',
         'Aula1 - Área da Circunferência, <br>Compras e Batimento Cardíaco.',        
     ]
