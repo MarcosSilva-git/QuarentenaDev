@@ -1,0 +1,58 @@
+html {
+    background-color: aqua;
+}
+
+body {
+    width: 500px;
+    background-color: white;
+    margin: 26px auto auto auto;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-size: 28px;
+    width: 40%;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+#nomeDoUsuario {
+    float: left;
+    margin-left: 87px;
+    height: 20px;
+    position: relative;
+    top: -25px;
+    width: 373px;
+
+}
+
+input {
+    position: relative;
+    top: -25px;
+}
+
+#Nascimento {
+    margin-left: 170px;
+    width: 250px;
+}
+
+#idade {
+    margin-left: 52px;
+    width: 368px;
+}
+
+#condicao {
+    margin-left: 230px;
+    width: 190px;
+}
+
+#acompanhamento {
+    margin-left: 300px;
+    width: 120px;
+}
